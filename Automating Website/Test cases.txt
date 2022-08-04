@@ -1,0 +1,18 @@
+TEST CASE 
+
+(http://www.leafground.com/home.html)
+
+
+1.open website
+2.click a link Image
+3.Enter values in Email and text box
+4.Go to previous page
+5.open Hyperlinks
+6.DropDown
+	by Index
+	by visible text
+	by value
+8.Check Box
+9.Alert Box
+10.Calender
+11.Quit Browser
